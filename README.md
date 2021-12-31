@@ -1,12 +1,13 @@
 # PowerShell
 Personalización para PowerShell
 
-Pasos:
+##Pasos:
 
-1.- Instalar terminal
-2.- Instalar Powershell (La nueva version)
-3.- Instalar fonts (https://www.nerdfonts.com/font-downloads)
+##1.- Instalar terminal
+##2.- Instalar Powershell (La nueva version)
+##3.- Instalar fonts (https://www.nerdfonts.com/font-downloads)
 	- Hack 
+
 - Configurar terminal
 	- Inicio
 		- Perfil Predeterminado
